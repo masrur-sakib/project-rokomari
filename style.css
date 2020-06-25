@@ -1,0 +1,54 @@
+/* Header Section  */
+.fa-search{
+    margin-left: -50%;
+    padding: 40%;
+    color: white;
+    background-color: #0397D3;
+}
+.input_search{
+    margin-left: 10px;
+    border: none;
+    border-bottom: 1px solid #c9c9c9;
+    width: 400px !important;
+}
+.dropdown_books{
+    border-right: 1px solid rgba(230, 229, 229, 0.712);
+}
+.group_one{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.icon_cart{
+    margin-right: 20px;
+}
+.icon_person{
+    margin-right: 20px;
+}
+
+/* Slider Section  */
+.slider_img{
+    width: 120%;
+}
+
+/* Services Section  */
+.services_card{
+    margin: 2% 1%;
+    padding: 2% 0;
+    height: 150px;
+    width: 180px;
+    box-shadow: 0 6px 32px 0 #3754aa2b;
+    border-radius: 10px;
+    background-image: url(images/services_back-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-img{
+    margin-bottom: 10%;
+    padding: 5%;
+    background-image: linear-gradient(180deg, #8F05E0, #440E83);
+    height: 50%;
+    width: 30%;
+    border-radius: 50%;
+
+}
