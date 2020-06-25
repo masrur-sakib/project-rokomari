@@ -52,3 +52,11 @@
     border-radius: 50%;
 
 }
+
+/* Footer Section  */
+.footer-card{
+    height: 100%;
+}
+.footer_section a{
+    color: #AAA7DA;
+}
