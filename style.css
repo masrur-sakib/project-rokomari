@@ -53,6 +53,10 @@
 
 }
 
+.card-body{
+    padding: 20% 10;
+}
+
 /* Footer Section  */
 .footer-card{
     height: 100%;
